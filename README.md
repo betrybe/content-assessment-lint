@@ -11,6 +11,8 @@ Lembre-se que é importante demonstrar a sua criatividade, didática e organiza�
 
 Você deve desenvolver uma página de conteúdo que ensine os estudantes como instalar e configurar um _linter_  de JavaScript no seu editor de código, mais especificamente o [ESLint](https://eslint.org/).
 
+A página deve ser produzida no formato Markdown, seguindo as [guidelines do GitHub](https://guides.github.com/features/mastering-markdown/).
+
 ### Cenário
 
 * Os estudantes são orientados a utilizar Linux ([Elementary OS](https://elementary.io/), [Ubuntu](https://ubuntu.com/) ou alguma outra distro _debian based_);
@@ -69,6 +71,8 @@ A partir daí, iremos disponibilizar o resultado da sua avaliação em até 30 h
 ## Apresentação e Avaliação
 
 Você deve submeter um Pull Request para esse repositório com o conteúdo produzido até a data limite.
+
+O Pull Request deverá conter o arquivo Markdown com o conteúdo, formatado conforme as guidelines do GitHub, além de links para vídeos/referências externas e imagens/Gifs produzidos.
 
 Seu conteúdo será revisado por dois membros do nosso time, no formato de _Code Review_.
 
